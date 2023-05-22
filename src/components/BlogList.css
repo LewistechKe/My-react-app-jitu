@@ -1,0 +1,31 @@
+.blog-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .blog-item {
+    background-color: #000c2e;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-item h3 {
+    margin: 0;
+  }
+  
+  .blog-item p {
+    margin-top: 10px;
+  }
+  
+  .blog-item button {
+    background-color: #fe1050;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .blog-item button:hover {
+    background-color: #9c072f;
+  }
+  
